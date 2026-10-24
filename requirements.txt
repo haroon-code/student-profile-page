@@ -1,0 +1,9 @@
+PROJECT: Student profile page
+
+Create a simple student profile page:
+Put the student's name and course in the main area.
+Use two columns for skills and goals.
+Put contact preferences in an expander.
+Add tabs for Profile, Progress, and Next Steps.
+Put a short app description in the sidebar.
+Challenge: Use st.empty() to create a placeholder and assign a message to it later in the script.
